@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#080c09" />
+  <circle cx="50" cy="50" r="38" fill="url(#mint-grad)" />
+  <path d="M30 52C30 38.7452 40.7452 28 54 28C67.2548 28 78 38.7452 78 52V64C78 68.4183 74.4183 72 70 72H68C65.7909 72 64 70.2091 64 68V56C64 53.7909 65.7909 52 68 52H72V52C72 42.0589 63.9411 34 54 34C44.0589 34 36 42.0589 36 52H40C42.2091 52 44 53.7909 44 56V68C44 70.2091 42.2091 72 40 72H38C33.5817 72 30 68.4183 30 64V52Z" fill="#080c09"/>
+  <defs>
+    <linearGradient id="mint-grad" x1="12" y1="12" x2="88" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ff88"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+</svg>
